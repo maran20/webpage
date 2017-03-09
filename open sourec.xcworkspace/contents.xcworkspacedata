@@ -1,7 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Workspace
-   version = "1.0">
-   <FileRef
-      location = "container:../Documents/BSc Information Technology/Level 5/BSc Information Technology/kanady/index.html">
-   </FileRef>
-</Workspace>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>	
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	<title> Open source Project </title>
+		<meta charset="utf-8">
+</head>
+
+<body id="page1">
+<!--==============================header=================================-->
+<header
+ <div class="main">
+      	<div class="multiple">
+        <h1><a href="index.html">Home Page</a></h1>
+        <nav>
+          <ul class="menu">
+            <li><a class="active" href="index.html">Home</a></li>
+             <li><a href="contact.html">Contact Us</a></li>           
+           
+          </ul>
+        </nav>
+       </div>
+    </div>
+  </div>
+</div>
+  	 <div class="main">
+        <h2>Welcome to <span>Open Source Page</span></h2>
+      </div>a
+</header>
+      
+     
+<!--==============================content================================-->
+<section id="content">
+<div class="gradient">
+  <div class="main">
+   
+    <div id="img">
+	
+		<p>Set in the <strong> open Source </strong> </p>
+		<p>open Souce project <em> open Source </em> , <em> open Source </em> , topen Source. </p>
+		<img src="images/img" alt="Mainimg" />
+      </div>
+  
+ 
+
+  <div id="column1">
+	<div id="mainvideo">
+		<video src="videos/video.mp4" controls></div>
+	</div>
+  </div>
+    <div id="column2">
+	   <p><img src="images/img1" alt="open Source" /><img src="images/open " alt="open Source" /></p>
+	</div>
+	 
+	 
+</div>
+	</div>
+</section>
